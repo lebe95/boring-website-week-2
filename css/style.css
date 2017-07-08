@@ -1,0 +1,42 @@
+p {color: green}
+
+.borders {
+    border: 3px solid black;
+    width: 300px;
+    margin: auto;
+}
+
+.text_red {
+    color:red;
+}
+
+h1 {
+    text-align:center;
+}
+nav ul  {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #A3B4A2;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    border-right: 1px dotted blue;
+}
+
+nav li a:hover{
+    color: #C1666B;
+    background-color: #D4B483;
+}
+
+article ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #A3B4A2;
+}
+
